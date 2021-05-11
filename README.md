@@ -1,5 +1,5 @@
 # xentidoe-s-fnf-mod-list
-<li><a href="/vs deek"<p style="color:black">vs chara</a></li>
+<li><a href="/vs deek.zip"<p style="color:black">vs chara</a></li>
 
 <style>
   body{
